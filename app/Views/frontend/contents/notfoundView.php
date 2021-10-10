@@ -20,7 +20,23 @@
 	<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/all.css"> -->
 	<!-- AdminLTE v3.1.0 -->
 	<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/admin-lte@3.1.0/dist/css/adminlte.min.css"> -->
-	<!-- Custom Fonts -->
+	<!-- iCheck for checkboxes and radio inputs -->
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/icheck-bootstrap@3.0.1/icheck-bootstrap.min.css">
+	<!-- SweetAlert2 -->
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@sweetalert2/theme-bootstrap-4@5.0.4/bootstrap-4.min.css">
+	<!-- Toastr -->
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/toastr-min@1.0.0/build/toastr.css">
+	<!-- flag-icon-css -->
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flag-icon-css@3.5.0/css/flag-icon.min.css">
+	<!-- Daterange picker -->
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/daterangepicker@3.1.0/daterangepicker.css">
+	<!-- Icheck bootstrap -->
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/icheck-bootstrap@3.0.1/icheck-bootstrap.min.css">
+	<!-- AdminLTE v3.1.0 -->
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/admin-lte@3.1.0/dist/css/adminlte.min.css">
+	<!-- Google Font: Source Sans Pro -->
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+	<!-- Google Font: Lobster -->
 	<!-- <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lobster" type="text/css"> -->
 	<!-- Customize style -->
 	<style type="text/css">
@@ -52,6 +68,8 @@
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
 	<!-- Font awesome v5.15.4 -->
 	<!-- <script src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/js/all.min.js"></script> -->
+	<!-- Date-range-picker -->
+	<script src="https://cdn.jsdelivr.net/npm/daterangepicker@3.1.0/daterangepicker.min.js"></script>
 	<!-- AdminLTE v3.1.0 -->
 	<!-- <script src="https://cdn.jsdelivr.net/npm/admin-lte@3.1.0/dist/js/adminlte.min.js"></script> -->
 </body>
